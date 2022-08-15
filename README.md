@@ -2,7 +2,7 @@ Script para obtener la información de archivos XML.
 
 Ejecutandolo se recupera la información de todos los XML dentro de la carpeta donde se ejecuta el script.
 
-Se obtiene:
+Al finalizar, se genera un archivo Excel de nombre "XMLs_InfoGeneral" con las siguientes columnas:
 
   - UUID
   - CFDIs relacionados (UUID)
@@ -11,4 +11,4 @@ Se obtiene:
   - Subtotal
   - Descuento
   - Total
-  - Ruta donde se guarda el archivo
+  - path (Ruta donde se guarda el archivo)
